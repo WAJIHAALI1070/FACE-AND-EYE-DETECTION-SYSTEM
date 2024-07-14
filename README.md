@@ -41,9 +41,6 @@ Run `Face_detect.py` in your IDE. Ensure your camera is connected and properly c
 - For best results, ensure adequate lighting conditions for the camera.
 - This project is intended for educational purposes and can be extended for various real-world applications.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
