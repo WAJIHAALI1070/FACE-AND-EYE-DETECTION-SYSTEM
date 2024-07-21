@@ -55,4 +55,5 @@ For questions or feedback, please contact:
 - Muhammad Huzaifa: [mhuzaifa.bee21seecs@seecs.edu.pk](mailto:mhuzaifa.bee21seecs@seecs.edu.pk)
 
 Feel free to reach out to us with any inquiries related to this project.
-
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
